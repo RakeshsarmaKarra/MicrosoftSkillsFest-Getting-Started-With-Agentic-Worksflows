@@ -17,6 +17,9 @@ A portfolio-style repository that documents my completion of the Microsoft Skill
 ## Overview
 This repository showcases my learning journey in agentic AI workflows, with GitHub as the system of record and control plane for planning, review, evaluation, and deployment governance. The underlying course themes include plan  act  evaluate loops, pull-request-based execution, CODEOWNERS for path-based review routing, environment protections for production safety, and evidence stored in GitHub-native artifacts such as workflow runs and checks.
 
+## Live Showcase
+[View the live GitHub Pages site](https://rakeshsarmakarra.github.io/MicrosoftSkillsFest-Getting-Started-With-Agentic-Worksflows/)
+
 ## What I learned
 Agents are different from assistants because they can take action in the SDLC, such as creating branches, updating code, and opening pull requests for review.
 
